@@ -1,1 +1,20 @@
-
+{
+  "messages": [
+    {
+      "id": 1,
+      "message": "FutureRP - A war is coming."
+    },
+    {
+      "id": 2,
+      "message": "Dylan - I LOVE CASSIE."
+    },
+    {
+      "id": 3,
+      "message": "Layla - I Woof You!"
+    },
+    {
+      "id": 4,
+      "message": "Darth Vader - Luke, I am your father......s cyborg remains"
+    }
+  ],
+}
